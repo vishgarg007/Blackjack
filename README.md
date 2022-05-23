@@ -1,1 +1,1 @@
-Blackjack Game build in Python!!
+Blackjack Game coded in Python by Vishal Garg!

@@ -1,4 +1,4 @@
-#Assignment 5 - Blackjack
+# Blackjack
 import random
 import time
 def main():
